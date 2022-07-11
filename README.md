@@ -20,9 +20,9 @@ To run Chadachat in a localhost you must go into the directory and type `npm sta
 
 ## Screenshots
 
-![Login Screen]()
+![Login Screen](https://github.com/Chadano/Chadachat/blob/main/Screenshots/2.png?raw=true)
 
-![Chat window]()
+![Chat window](https://github.com/Chadano/Chadachat/blob/main/Screenshots/1.png?raw=true)
 
 ## Credits
 
