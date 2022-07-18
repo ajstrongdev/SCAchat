@@ -16,7 +16,7 @@ sudo npm install express
 git clone https://github.com/chadano/chadachat
 ```
 
-To run Chadachat in a localhost you must go into the directory and type `npm start`.
+To run SCAchat in a localhost you must go into the directory and type `npm start`.
 
 ## Screenshots
 
