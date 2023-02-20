@@ -13,20 +13,20 @@ SCAchat requires NodeJS and Express.JS to run,
 ```sh
 sudo apt install nodejs npm
 sudo npm install express
-git clone https://github.com/chadano/chadachat
+git clone https://github.com/httpllamaz/scachat
 ```
 
 To run SCAchat in a localhost you must go into the directory and type `npm start`.
 
 ## Screenshots
 
-![Login Screen](https://github.com/Chadano/Chadachat/blob/main/Screenshots/2.png?raw=true)
+![Login Screen](https://github.com/httpllamaz/scachat/blob/main/Screenshots/2.png?raw=true)
 
-![Chat window](https://github.com/Chadano/Chadachat/blob/main/Screenshots/1.png?raw=true)
+![Chat window](https://github.com/httpllamaz/scachat/blob/main/Screenshots/1.png?raw=true)
 
 ## Credits
 
-- Created by Chadano
+- Created by http.llamaz
 
 SCAchat was inspired by and built ontop-of this project: https://glitch.com/~dusty-sweet-station 
 
