@@ -2,7 +2,7 @@
 
 SCAchat (SCA Chatting Application) is a self-hosted chatting application similar to AOL Instant Messenger. The chatting application is privacy-respecting and does not store any messages or user-data. Once a session has ended, all messages are gone.
 
-SCAchat is not hosted anywhere centrally, rather you can independantly host your own instance of Chadachat by utilising the code.
+SCAchat is not hosted anywhere centrally, rather you can independantly host your own instance of SCAchat by utilising the code.
 
 ## Installation
 
